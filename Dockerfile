@@ -1,2 +1,2 @@
-FROM tom:v1
+FROM ubuntu
 RUN touch a.txt
