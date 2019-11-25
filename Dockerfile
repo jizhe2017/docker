@@ -1,2 +1,2 @@
-FROM cat:v1
+FROM tom:v1
 RUN touch a.txt
